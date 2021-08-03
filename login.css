@@ -1,0 +1,59 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.style2 {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #000000;
+}
+#Layer1 {	position:absolute;
+	width:350px;
+	height:150px;
+	z-index:1;
+	left: 636px;
+	top: 200px;
+}
+.run {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	text-decoration: none;
+}
+.copy {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.yellow {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #090e90;
+	text-decoration: underline;
+}
+.loginbg {
+	height: 174px;
+	width: 335px;
+	background-image: url(images/loginbg.gif);
+	background-repeat: no-repeat;
+}
+.iconmenu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.iconmenu a, .iconmenu a:link, .iconmenu a:visited {
+	color: #666666;
+	text-decoration: none;
+}
+.iconmenu a:hover, .iconmenu a:active {
+	color: #090e90;
+	text-decoration: none;
+}

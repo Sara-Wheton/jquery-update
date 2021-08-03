@@ -1,0 +1,138 @@
+.logbx{
+	background-color:#e7ecf6;
+	padding:10px 14px;
+}
+.filBg{
+	border-left:1px solid #d9e0ed;
+	border-right:1px solid #d9e0ed;
+	background-color:#FFFFFF;
+	padding:15px 20px;
+}
+.tTxt04{
+	font:bold 16px Arial, Helvetica, sans-serif;
+	color:#333333;	
+	padding-bottom:10px;
+}
+.tTxt05{
+	font:normal 16px Arial, Helvetica, sans-serif;
+	color:#333333;
+	padding-bottom:8px;
+}
+.tTxt05 img{
+	vertical-align:middle;
+	margin-left:8px;
+}
+.adBx{
+	border:1px solid #CCC;
+	padding:10px 10px 10px 10px;
+	background:url(images/boxBg.gif) repeat-x bottom;
+}	
+.ulList02 li{
+	list-style:none;
+	background:url(images/icon/icon_bullet.gif) no-repeat 0px 9px;
+	padding:5px 5px 5px 15px;
+}
+.ulList02 li.nolist{
+	background:url(images/h_line.gif) repeat-x center center;
+	padding:0px;
+}
+.bxImg{
+	position:relative;
+	margin-top:-10px;
+}
+.footLine{
+	background:#090e90;
+}
+.footerLink td{
+	padding:10px;
+	color:#7D7D7D;
+}
+.footerLink a{
+	padding:5px;
+	color:#7D7D7D;
+	text-decoration:none;
+}
+.footerLink a:hover{
+	padding:5px;
+	color:#3b404d;
+	text-decoration:underline;
+}
+.tTxt{
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#333333;	
+}
+.tTxt01{
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#333333;
+	width:50%;
+	padding-bottom:5px;	
+}
+.tTxt02{
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#333333;
+	width:50%;
+	padding-bottom:5px;	
+}
+.tTxt03{
+	font:bold 13px Arial, Helvetica, sans-serif;
+	color:#333333;
+	width:70%;
+	padding-bottom:5px;	
+}
+td,th,select,input,textarea{
+	font:11px Arial, Helvetica, sans-serif;
+	color:#333333;
+}
+td input,td select, div select,td radio{
+	vertical-align:middle;
+}
+a{
+	color:#B60548;
+	text-decoration:underline;
+}
+a:hover{
+	color:#B60548;
+	text-decoration:none;
+}
+p,h1,h2,h3,h4,ul,ol,form{
+	padding:0px;
+	margin:0px;
+}
+img{
+	border:0px;
+}
+label{
+	vertical-align:middle;
+}
+.CL{
+	clear:both;
+}
+.FL{
+	float:left;
+}
+.FR{
+	float:right;
+}
+a.arrLink{
+	display:block;
+	background:url(images/comm_bullete.gif) no-repeat 0px 7px;
+	padding:3px 0px 3px 10px;
+	text-decoration:none;
+}
+a.arrLink:hover{
+	text-decoration:underline;
+}
+.fiTxt01{
+	background:url(images/icon/icon_user.gif) no-repeat 5px 2px;
+	border:1px solid #cccccc;
+	padding:4px 3px 4px 25px;
+	font:12px Arial, Helvetica, sans-serif;
+	width:155px;
+}
+.fiTxt02{
+	background:url(images/icon/icon_pass.gif) no-repeat 5px 2px;
+	border:1px solid #cccccc;
+	padding:4px 3px 4px 25px;
+	font:12px Arial, Helvetica, sans-serif;
+	width:155px;
+}
